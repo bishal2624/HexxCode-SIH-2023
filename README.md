@@ -10,7 +10,7 @@
     <br />
     Ministry - AICTE              
     <br />
-    College of Engineering Pune, Technological University (COEP Tech)
+    
     <br />
     <a href = "#usage"><strong>Demo</strong></a>
     ·
